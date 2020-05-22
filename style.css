@@ -1,0 +1,76 @@
+h1{
+	text-align: center;
+	background-color: grey;	
+	color: pink;
+	padding: 50px;
+
+}
+
+
+.main{
+	text-align: right;
+	background-color: pink;
+}
+p{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 30px;
+
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  padding-bottom: 20px;
+ }
+
+ #poorva_2{
+ 	font-size: 30px;
+ 	color: black;
+ 	text-align: center;
+ 	background-color: white;
+ }
+
+ .special_para{
+ 	font-size: 20px;
+ 	color: blue;
+ 	text-align: center;
+ 	background-color: white;
+ }
+#poorva_1{
+	font-size: 15px;
+}
+header{
+	background-color: black;
+	padding: 2px;
+}
+
+ul{
+	list-style: none;
+
+}
+li{
+	display: inline;
+	margin: 50px;
+}
+
+li a {
+	color: white;
+	text-decoration: none;
+}
+li a:hover{
+	color: pink;
+	text-decoration: none;
+}
+
+
+footer{
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
